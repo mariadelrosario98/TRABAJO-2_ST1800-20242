@@ -1,4 +1,8 @@
 # TRABAJO-2_ST1800-20242
+# Integrantes:
+Mariel Viviana Sánchez
+Laura Riveros
+Maria del Rosario Castro Mantilla
 
 # Punto 1
 # Procesamiento de Lenguaje Natural
